@@ -1,4 +1,4 @@
-name := "akka-quickstart-scala"
+name := "akka-quartz-scheduler"
 
 version := "1.0"
 
